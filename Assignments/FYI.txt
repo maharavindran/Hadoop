@@ -1,0 +1,7 @@
+Have installed hadoop ,Pig, Hive , Hbase,Sqoop and Flume in my local machine(VM OF 4GB)
+
+I did not work on cloud 
+
+I have executed all these in my local.
+
+

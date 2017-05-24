@@ -1,0 +1,13 @@
+1. Brush Core java:
+
+   Have brushed concepts and since working in spring boot and distributed systems have completed it quickly.
+
+
+2.SVN branch:
+
+Found the SVN branch for hadoop 2.2.0 and build tool used is MAVEN
+
+3.VM setup:
+
+Done setting up VM with ubuntu image and 4 GB RAM using VMWare Player.
+
